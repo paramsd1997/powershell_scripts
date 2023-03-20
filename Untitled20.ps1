@@ -1,0 +1,1 @@
+﻿get-aduser -identity username -Properties * | export-csv -path c:\temp\export.csv
