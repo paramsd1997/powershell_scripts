@@ -1,3 +1,4 @@
+# New-Item -ItemType File -Path "C:\Path\To\Your\File.html
 Set-Content -Path "C:\Path\To\Your\File.html" -Value @"
 <!DOCTYPE html>
 <html>
